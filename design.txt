@@ -1,3 +1,6 @@
+Classe Bill(conta)
+quantidade(valor)
+periodo
 classe mate:
 nome
 dias de uso
@@ -5,7 +8,7 @@ dias de uso
 metodo conta(nome, dias de uso):
 valor de cada um
 
-classe relatorio:
+classe relatorio em pdf:
 nome
 dias de uso
 valor de cada um
