@@ -1,0 +1,25 @@
+classe mate:
+nome
+dias de uso
+
+metodo conta(nome, dias de uso):
+valor de cada um
+
+classe relatorio:
+nome
+dias de uso
+valor de cada um
+metodo gerar pdf(mate)
+
+###############################
+projeto esperado:
+object: Bill:
+            amount
+            period
+        Flatmate:
+            name
+            days_in_house
+            pays(bill)
+         Pdf_Report:
+            filename
+            generate(Flatmate1, flatmate2, bill)
